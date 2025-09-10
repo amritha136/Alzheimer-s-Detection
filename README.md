@@ -60,10 +60,26 @@ This project explores how **computer vision and deep learning** can automate MRI
 
 ---
 
-## 📈 Training Curves
+## Training Curves
 
 <p align="center">
-  <img src="/Users/amritharaj/Desktop/venv-conda_env/Alzheimer_Project/training_curves.png" alt="Training Curves" width="600"/>
+  <img src="training_curves.png" alt="Training Curves" width="600"/>
+</p>
+
+---
+
+## Confusion Matrix
+
+<p align="center">
+  <img src="confusion_matrix.png" alt="Training Curves" width="600"/>
+</p>
+
+---
+
+## Examples of Alzheimer's Detection
+
+<p align="center">
+  <img src="alzheimers_detection_imgs.png" alt="Training Curves" width="600"/>
 </p>
 
 ---
